@@ -1,0 +1,37 @@
+@'
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Model checkpoints, experiment artifacts, and generated binaries
+artifacts/
+
+# Local datasets; retain the lightweight manifest
+data/*
+!data/dataset_manifest.json
+
+# Detailed experiment logs that can be regenerated
+reports/experiments/
+reports/training_metrics.jsonl
+'@ | Set-Content -Encoding utf8 .gitignore

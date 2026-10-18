@@ -1,0 +1,53 @@
+{
+  "generation_csv": "E:\\mini-llm\\mini-llm-lab\\reports\\evaluation\\generation_comparison.csv",
+  "sample_count": 20,
+  "samples_per_model": {
+    "100k": 10,
+    "25k": 10
+  },
+  "metrics_are_heuristics": true,
+  "models": {
+    "25k": {
+      "samples": 10,
+      "continuation_characters": 725.8,
+      "continuation_words": 150.3,
+      "sentence_count_heuristic": 15.1,
+      "mean_sentence_words_heuristic": 12.866,
+      "distinct_1": 0.534121,
+      "distinct_2": 0.869351,
+      "distinct_3": 0.952075,
+      "repeated_bigram_occurrence_ratio": 0.130649,
+      "repeated_trigram_occurrence_ratio": 0.047925,
+      "repeated_sentence_count": 0.0,
+      "terminal_punctuation_fraction": 0.7,
+      "near_generation_limit_fraction": 0.3,
+      "near_limit_without_terminal_punctuation_fraction": 0.3,
+      "validation_loss": 0.7277123663490389,
+      "perplexity": 2.0703390090356906
+    },
+    "100k": {
+      "samples": 10,
+      "continuation_characters": 790.2,
+      "continuation_words": 161.8,
+      "sentence_count_heuristic": 17.0,
+      "mean_sentence_words_heuristic": 9.88991,
+      "distinct_1": 0.513413,
+      "distinct_2": 0.87071,
+      "distinct_3": 0.952299,
+      "repeated_bigram_occurrence_ratio": 0.12929,
+      "repeated_trigram_occurrence_ratio": 0.047701,
+      "repeated_sentence_count": 0.2,
+      "terminal_punctuation_fraction": 0.6,
+      "near_generation_limit_fraction": 0.4,
+      "near_limit_without_terminal_punctuation_fraction": 0.4,
+      "validation_loss": 0.6862436973681224,
+      "perplexity": 1.986240582216629
+    }
+  },
+  "comparison_limitations": [
+    "Only the saved prompts and samples are measured; this is not a comprehensive estimate of all possible generations.",
+    "Distinct-n measures surface n-gram diversity, not semantic quality or factuality.",
+    "Terminal punctuation and near-limit flags are heuristics, not proof of sentence completeness or truncation.",
+    "The 25k and 100k runs used different training batch sizes, so dataset size is not isolated as the only changed variable."
+  ]
+}

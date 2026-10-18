@@ -1,0 +1,3 @@
+model,run_name,best_step,best_validation_loss,best_validation_perplexity,latest_step,latest_validation_loss,latest_validation_perplexity,elapsed_seconds_at_latest_eval,validation_evaluations
+25k,tiny_25k_baseline_b288_v1,10000,0.7277123663490389,2.0703390090356906,10000,0.7277123663490389,2.0703390090356906,3146.5303798999994,21
+100k,tiny_100k_b1280_v1,10000,0.6862436973681224,1.986240582216629,10000,0.6862436973681224,1.986240582216629,12197.834216245,21

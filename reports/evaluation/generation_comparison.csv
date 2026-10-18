@@ -1,0 +1,179 @@
+model,checkpoint,prompt,seed,max_new_tokens,temperature,top_k,top_p,device,generation_seconds,generated_text
+25k,artifacts\experiments\tiny_25k_baseline_b288_v1\checkpoints\best.pt,Once upon a time,42,1000,0.8,20,0.9,cuda,4.279,"Once upon a time, there was a little boy named Timmy. Timmy loved to play with his toys all day long. One day, Timmy wanted to go on an adventure. He went to the park to play with his toys, but he couldn't find it.
+
+He carefully built a big snack with many colors. He was so proud of himself. He had discovered something special and he was so happy."
+25k,artifacts\experiments\tiny_25k_baseline_b288_v1\checkpoints\best.pt,A little girl found,42,1000,0.8,20,0.9,cuda,6.386,"A little girl found a shiny book in the bag. She was very excited because she had never seen a colorful bird before. She picked it up and took it home. She ran to the bird and picked it up.
+
+The bird flew away, but she couldn't see it. She was scared and started to cry. Suddenly, the bird flew away. Lily fell asleep and saw the most stranger happy ever started to cry.
+
+The mosquito was standing on the tree and looked like a pretty most bird in the sky. It was a cozy room, where it was. The color was getting very cold and smooth. The colourful bird looked sad because it saw a big bird who was colourful. It had a lot of noise and scary things in the sky. Sarah wanted to help the little bird. But it was not too long anymore. It was cold and broken. It was a long time.
+
+""No, it's mine,"" Tim said. ""It's my favorite time. I don't want to go home now.""
+
+They put the ticket on the ground and started to cry. They pulled and pulled and pulled, but it was too late. It was too hard.
+
+""Ow!"" the ticket said. ""The tick"
+25k,artifacts\experiments\tiny_25k_baseline_b288_v1\checkpoints\best.pt,One sunny morning,42,1000,0.8,20,0.9,cuda,6.073,"One sunny morning, a little girl named Lily went to the park. She saw a big tree with many other trees in the closet. It was shiny and round. Lily wanted to help Lily.
+
+""Lily, this is my name?"" Ben asked.
+
+""No, it's mine!"" Lily said. ""It is mine!""
+
+""No, it is mine!"" Ben said. ""It has a ball. It is flashlight and cloudy!""
+
+""No, no!"" Lily said. ""The ball is not sad. It is for you. It has a sparkly cloud. It makes me feel so peaceful.""
+
+""That's not nice, Lily,"" Ben said. ""I have to stay with my clothes. It is good for you.""
+
+Lily said, ""That sounds like a cloth and a cloth. And I will be your friend.""
+
+Her mom smiled and said, ""Yes, it is. Sometimes you will help me make more food. We will not be happy again anything else.""
+
+Lily smiled and said, ""Thank you, Mommy. You are a good spicy treat. You are a good brother.""
+
+Her mom smiled and said, ""You are a good home, mommy. I love you."""
+25k,artifacts\experiments\tiny_25k_baseline_b288_v1\checkpoints\best.pt,A young boy went into the forest,42,1000,0.8,20,0.9,cuda,5.742,"A young boy went into the forest with his mom. He saw a big, dog crying because he was very scared. He tried to cry and tried to help him, but he could not find his dog anywhere.
+
+Sam asked his dog, ""Dog, what did you do today?"" The dog replied, ""I'm scared of him! Why did you do the right dog?""
+
+Tim was scared, but he didn't know what to do. He started to cry. ""I want to feed the boy. What are you doing?"" he asked.
+
+""I don't know, why did the boy was stuck in the box?""
+
+The boy replied, ""I don't know, Mom. I don't like the box. It is mine and scary. It might be with his drum and blue. I will hurt you.""
+
+Mom hears the noise and comes to see. She sees Ben and Sam smiles and says, ""Thank you, Sam. You are very nice too. You are very smart and respectful. You are a good helper. I am glad you are a good friend."""
+25k,artifacts\experiments\tiny_25k_baseline_b288_v1\checkpoints\best.pt,The little dog was hungry,42,1000,0.8,20,0.9,cuda,4.499,"The little dog was hungry. He was so scared that he tried to find the rabbit better. He was so excited to go and try to eat the rabbit again, but the rabbit had an idea! 
+
+The bear said, ""No, it's mine!"" He was so scared and scared that he decided to catch it. He ran away and he was very happy.
+
+He started to cry and thought that he could see his long hair. He wanted to play with the ball all day and read his new friends.
+
+So the ball took turns to make him so pretty. They played with the toy but they were safe. They laughed and laughed as they played together. They had fun."
+25k,artifacts\experiments\tiny_25k_baseline_b288_v1\checkpoints\best.pt,"One day, a rabbit met a turtle",42,1000,0.8,20,0.9,cuda,6.095,"One day, a rabbit met a turtle who was sitting in a bench. He saw a boy with a long beak. He was very scared and asked his mom why he was sitting on the sofa. His mom said yes, and they called him to go to the sofa ride.
+
+As Timmy was walking by, he saw a big box of rocks. He was very sad and angry. Timmy felt sad. He liked to help his friends. He had lost his friends and his friends.
+
+But he did not want to play with him. He wanted to make his friends laugh. He asked his mom, ""What are you doing, Mom?""
+
+His mom said, ""It's a little bit scared, but it's not sad. It's very pretty."" 
+
+His mom smiled and said, ""It's a good idea. Let's go home.""
+
+They sat on the scarf and started to run around the house. But then they heard a loud noise. It was a strange noise. They heard a loud noise. They looked at the flowers. It was a scary silver box. They saw the shrimp on the floor. It was brown and white.
+
+""Wow, there is a great idea!"" Lily said. ""It is so fun!""
+
+""Wow! You are a great boy!"" Tom said. ""You are very nice and rude"
+25k,artifacts\experiments\tiny_25k_baseline_b288_v1\checkpoints\best.pt,"It was raining outside, so",42,1000,0.8,20,0.9,cuda,5.173,"It was raining outside, so it decided to go to the park. It was so fan to see who was the rainbow in the wind. She looked around and saw a big room. 
+
+The rainbow was so scary. It was a star! She wanted to make it better. She saw the birds and the cats and wanted to stay in the sky. She wanted to show it to her friends, so she asked her mom to help her. 
+
+""Mommy, can I stay on the shore for your bike?"" her mom said. ""I want to stay in a hot so you can find it too,"" her mommy replied, ""OK, that but first doesn't like to come in front of the world.""
+
+The little girl was sad because she had no one seen anything time. She learned that sometimes things can be scared or scary and things are not there."
+25k,artifacts\experiments\tiny_25k_baseline_b288_v1\checkpoints\best.pt,The old man opened the door and,42,1000,0.8,20,0.9,cuda,6.196,"The old man opened the door and saw a boy with a star on his back. He was a little boy who wanted to go on a walk to the park with his mom. So he took out his bag and started to cry. He ran to the ball and back to the door. He saw the ball. He was very careful not to give it back to his mom.
+
+Lily was sad. She said, ""Mom, I want to play with you. I want to play with you. I want to play with you.""
+
+Mom said, ""Sure, let's go to the store and see the big tree. We will spray again and take some to the tree for you. But we have to wait for the store. We have to be careful and respectful and make our family strong. And they are not happy. We have to go to the park and play with our toys."" Mom said, ""I like to play with you and find a nice toy. I like to play with you and have fun. I will listen to me."" They looked at the bear.
+
+But the bear came running to help them. The bear had to show its friends. He saw the same little boy playing with the bear in the sand. He was very excited and they both wanted to explore. 
+
+So he"
+25k,artifacts\experiments\tiny_25k_baseline_b288_v1\checkpoints\best.pt,Lucy wanted to help her friend,42,1000,0.8,20,0.9,cuda,5.002,"Lucy wanted to help her friends with the old lady. She wanted to get out a piece of paper. She pretended to be a tape. She put the paper on the stove and folded it with a paper.
+
+As she walked, she saw a big round tree and smiled. She reached out her hand and said, ""What are you doing?"" 
+
+Mia said, ""That's a big tree. It's so loud and special!"" 
+
+Lily looked at the tree and saw a beautiful butterfly. It was a long tree with lots of trees and bright colours and stars. She was very happy to be able to take the big battery. 
+
+The little girl started to panick the water and she threw it over to her birthday. She knew it was a lot of new toys and it was a special thing."
+25k,artifacts\experiments\tiny_25k_baseline_b288_v1\checkpoints\best.pt,"After school, the children",42,1000,0.8,20,0.9,cuda,4.159,"After school, the children were stubborn and the girl said, “That’s a child, little girl. I will always tell you something else to do it.�
+
+The girl smiled and said, “I will stay here for a while, but I will never forget you.�
+
+The little girl smiled and said, “Thank you for taking me to sell you!� Then she hugged the little girl and the little girl was so proud of her for being able to be careful with her friends."
+100k,artifacts\experiments\tiny_100k_b1280_v1\checkpoints\best.pt,Once upon a time,42,1000,0.8,20,0.9,cuda,4.629,"Once upon a time, there was a little boy named Timmy. Timmy loved to play with his toy truck all day long. One day, Timmy's mom told him to stay close to the truck and eat yummy food. Timmy was very happy and proud of his success. He hugged his mom and said, ""Thank you, mom. I love you.""
+
+As they were leaving, Tim saw a big smile on a big bridge. He looked around and saw that it was a toy car. The smile was full of small penguins and the small toys. He was so excited and said, ""Yay!"" 
+
+Mum and dad said, ""That was a great idea, Lily. That was the best toy ever. It made everyone happy and strong. They always played happily ever after."
+100k,artifacts\experiments\tiny_100k_b1280_v1\checkpoints\best.pt,A little girl found,42,1000,0.8,20,0.9,cuda,6.088,"A little girl found a shiny stone and decided to create it with her dolls. She put it on the stove and the stone on the stove. She put the stones back in the shop and put them in a big box.
+
+""Look, Ben, they are so soft and fluffy!"" she says. ""They are going to be a big building together. The building is funny and fun. But they do not want to share.""
+
+Lily and Tom were scared. They did not want to share. They did not like to make their house. They had a lot of fun. They had a lot of fun in the snow. They learned that they should share and be nice. They wished they had listened to their mom and dad. They wished they had listened to their mom and dad. They wished they had not played with the dog. They wished they had not taken the car back. They wished they had listened to their mom and dad. They wished they had not made a mess. They wished they had not played with their toys. They wished they had not done the right thing again. They wished they had never found anything like they would go back. They wished"
+100k,artifacts\experiments\tiny_100k_b1280_v1\checkpoints\best.pt,One sunny morning,42,1000,0.8,20,0.9,cuda,6.209,"One sunny morning, a little girl named Lily went to the park with her mommy. She loved to swing in the sunshine and slide down the slide. One day, Lily found a big sandbox on the ground. It was shiny and had a small box. She wanted to make a sandbox with her toys. She opened the box and found a big box. She put on her shoes and held it tight. She took a paper and started to paper. She paper water and put it on her head. She papered some water and water. She was angry.
+
+""Ben, did you do not be so naughty? You are not a foolish store!"" she said.
+
+Ben and Lily ran to the bed. They put on their faces and went outside to play. They saw a sign on the ground. They wanted to pick it up.
+
+""Mom, look at this sign of the tree!"" Sara said. She wanted to see what was inside the tree.
+
+""No, Sara, this is my car. It is mine. You can't stay with it,"" Ben said.
+
+Sara did not listen. She saw that it was her car was dark. She felt sad and worried. She wanted to help the fish. She followed her mom and dad to help her clea"
+100k,artifacts\experiments\tiny_100k_b1280_v1\checkpoints\best.pt,A young boy went into the forest,42,1000,0.8,20,0.9,cuda,5.462,"A young boy went into the forest with his mommy. He was very happy because he was going to make a castle. He wanted to try to see what was inside the forest.
+
+Timmy decided to go find a new home to comfort his friend. The boy said, ""Welcome, you are very clever and good friends."" The boy smiled and said, ""You are welcome, little ones. You can have a new friend too.""
+
+At the end of the day, the boy and the boy went to the park to play. They saw many big trees and flowers. They also saw a small bird and the bird. The bird was scared and wanted to go inside. The bird flew up to the bird and said, ""Hello!"" The bird said, ""Can I help you?"" The bird was so happy and said, ""Yes, you can help."" The bird was so happy that it ate the bird and sang a song together. The bird sang and ate some songs and played together all day. The end."
+100k,artifacts\experiments\tiny_100k_b1280_v1\checkpoints\best.pt,The little dog was hungry,42,1000,0.8,20,0.9,cuda,6.054,"The little dog was hungry and wanted to eat some candy. He reached for the candy and took the snack from his house. He looked at the candy and saw that it was hard and he wanted to catch it. 
+
+The candy was so sad and so she climbed up the ladder. She wanted to go inside and explore the woods. But the farmer said no, the lady said she was still happy.
+
+Lily was sad. She wanted to help him find the pear and the bird. She wanted to pear the pear away from the street. But her friends didn't listen. They started to cry. The bird was sad and angry. The bird flew away and the bird said, ""Don't worry, I'll help you.""
+
+The bird flew to the tree and said, ""Thank you, Ben. You are very kind.""
+
+The bird said, ""You're welcome, bird. I'm glad you like it too. But I'm glad you are safe and happy.""
+
+The bird thanked the bird and ran back home. It felt so happy that she could help the bird find her friend. From then on, the bird always saved the bird and felt much better knowing that the bird was always helpful and helpful to"
+100k,artifacts\experiments\tiny_100k_b1280_v1\checkpoints\best.pt,"One day, a rabbit met a turtle",42,1000,0.8,20,0.9,cuda,4.768,"One day, a rabbit met a turtle named Robbit who lived in a hole. The rabbit was very happy and proud. He had managed to count the food all day. 
+
+One day, Robbie saw a big fire in the forest. She wanted to play with it, but he knew it was too hard. Robbie came closer and closer to help her.
+
+Soon, the fox got stuck in the tree and saw the mouse crawling in the pond. It was so much fun! But the bunny kept playing with it all day.
+
+The bunny thought about it and decided to go and find something fun. He closed his eyes and he fell down from the sky. The bunny was very happy to see the little bird. It was the best sun ever."
+100k,artifacts\experiments\tiny_100k_b1280_v1\checkpoints\best.pt,"It was raining outside, so",42,1000,0.8,20,0.9,cuda,6.078,"It was raining outside, something very happening. A strange rainbow was nearby. It was so big that it could make it a loud noise and the wind was starting to get angry. The fire was sad. The snake started to cry and did not listen. It was bad and worked and shouted at them. The cat said the fire for help.
+
+""Don't be afraid, my cat is scary. It hurts my hand. It is not good. It hurts you. It hurts my fire and my hand. It is blocking.""
+
+Sam feels sorry for Lily and Ben. He says, ""I'm sorry, Lily. I did not mean to hurt you. I was wrong. I didn't mean to break your toys before I leave you alone. I was just playing with my toys.""
+
+The man said, ""I will put you on the big boat, Max. We will be careful with our toys. We will be bad and say sorry.""
+
+Max was sad. He hugged Lily and said, ""It's okay, Lily. I'm sorry I won't do it again.""
+
+Lily smiled and hugged her mom. She knew that she could be safe and respectful. She wondered what was inside the machine.
+
+Her mom went outside to play. She saw the box and thought it"
+100k,artifacts\experiments\tiny_100k_b1280_v1\checkpoints\best.pt,The old man opened the door and,42,1000,0.8,20,0.9,cuda,4.645,"The old man opened the door and saw that it was very important. He felt that the old man was brave and decided to take the old man to the top. 
+
+He asked his dad, ""What is it?""
+
+""It's an old man,"" a voice said. ""The old man is so happy. He said, ""You did a great job to make a dance. We made it over the house and the floor to see it again.""
+
+The sun started to set off, and Tim was so happy. He ran around the house, looking for his shoes and around the house. When the sun was done, Tim was so happy. He thanked his mom for helping him find his shoes. They both hugged each other and said, ""Thank you, mom. We love you, mom."""
+100k,artifacts\experiments\tiny_100k_b1280_v1\checkpoints\best.pt,Lucy wanted to help her friend,42,1000,0.8,20,0.9,cuda,5.268,"Lucy wanted to help her friend, Sara. She looked at the string and smiled. They were very proud of her. Sara wanted to learn more about her favorite toys. She thought she was very curious and wanted to explore. But she also liked to learn about her teddy bear and her friends.
+
+One day, Lily went to the park with her mom. They saw a big sign that said ""Come here"" with a big smile. Lily thought it was a pretty sign.
+
+Lily asked her mom, ""Can I play with your sign?"" Her mom said, ""No, Lily, that is a big sign that says ""This sign is so much fun!""
+
+Lily felt sad and ashamed. She didn't like it when she saw that her dad was not happy. She knew she would like to dance. She wanted to have a new friend.
+
+So, Mom and Dad stayed on the slide. They slid down and felt happy. They all had fun and played again tomorrow."
+100k,artifacts\experiments\tiny_100k_b1280_v1\checkpoints\best.pt,"After school, the children",42,1000,0.8,20,0.9,cuda,4.291,"After school, the children were playing in the park. They liked to play on the swings and the slide. But the slide was not happy. It was fun. They were scared and run away.
+
+They wanted to go back to the park. They saw a big tree with a long tail in the garden. They wanted to explore the trees and hold it.
+
+""Can we go inside and see what we can do?"" Tom asked.
+
+""I don't know,"" Lily said.
+
+The bird smiled and they said goodbye to the bird. They went back to the sea. They flew away from the fence and went back to the garden."

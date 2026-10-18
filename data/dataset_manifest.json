@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-10-17T23:28:01.377536+00:00",
+  "source": {
+    "dataset_id": "roneneldan/TinyStories",
+    "revision": "f54c09fd23315a6f9c86f9dc80f725de7d8f9c64",
+    "license": "cdla-sharing-1.0",
+    "training_source_split": "train",
+    "evaluation_source_split": "validation",
+    "source_url": "https://huggingface.co/datasets/roneneldan/TinyStories"
+  },
+  "preparation": {
+    "seed_train": 42,
+    "seed_validation": 43,
+    "seed_test": 44,
+    "shuffle_buffer_size": 50000,
+    "sampling_method": "Version-pinned streaming shuffle with seeded buffer",
+    "deduplication": "Exact normalized-story SHA-256 fingerprints",
+    "document_separator": "<|document_boundary|>",
+    "training_subset_policy": "Nested prefixes of the same shuffled training pool",
+    "test_policy": "Disjoint sample from the upstream validation split; not a separately published official test split"
+  },
+  "counts": {
+    "training_pool": {
+      "story_count": 250000,
+      "character_count": 223522876,
+      "word_count": 43729590
+    },
+    "validation": {
+      "story_count": 5000,
+      "character_count": 4363664,
+      "word_count": 853356
+    },
+    "test": {
+      "story_count": 5000,
+      "character_count": 4339676,
+      "word_count": 848158
+    },
+    "training_subsets": {
+      "25000": {
+        "story_count": 25000,
+        "character_count": 22359942,
+        "word_count": 4371569
+      },
+      "100000": {
+        "story_count": 100000,
+        "character_count": 89621807,
+        "word_count": 17534204
+      },
+      "250000": {
+        "story_count": 250000,
+        "character_count": 223522876,
+        "word_count": 43729590
+      }
+    }
+  },
+  "collection_statistics": {
+    "train": {
+      "records_scanned": 255452,
+      "invalid_records": 36,
+      "duplicate_or_excluded_records": 5416
+    },
+    "validation": {
+      "records_scanned": 5128,
+      "invalid_records": 0,
+      "duplicate_or_excluded_records": 128
+    },
+    "test": {
+      "records_scanned": 6659,
+      "invalid_records": 0,
+      "duplicate_or_excluded_records": 1659
+    }
+  },
+  "files": {
+    "raw_corpus": {
+      "path": "data/raw/corpus.txt",
+      "size_bytes": 230116100,
+      "sha256": "571a256e55763f796d156fa192c62837dc0d0d13e4c012b3d983f28416d5090d"
+    },
+    "train": {
+      "path": "data/train.txt",
+      "size_bytes": 230116100,
+      "sha256": "571a256e55763f796d156fa192c62837dc0d0d13e4c012b3d983f28416d5090d"
+    },
+    "validation": {
+      "path": "data/validation.txt",
+      "size_bytes": 4495338,
+      "sha256": "23eea9c39533dc5d4a6bbd895685dbd7f2b4c688ecd1471dcc4fdb8e9a0344cc"
+    },
+    "test": {
+      "path": "data/test.txt",
+      "size_bytes": 4471213,
+      "sha256": "c342489784fdd196b8d0dfc57b59828ad68f2ea23aec3fa7a8ad82a8ed8213fe"
+    },
+    "train_subset_25000": {
+      "path": "data/subsets/train_25k.txt",
+      "size_bytes": 23022594,
+      "sha256": "70a3cd7ce703ad4016c2fd2582ebacf639562d89774d6141baa94c7be8383ee2"
+    },
+    "train_subset_100000": {
+      "path": "data/subsets/train_100k.txt",
+      "size_bytes": 92263906,
+      "sha256": "ef579084488eba2c63f67a8139bf7e2f2fab618e76955502ca1af22f5a8d3d80"
+    },
+    "train_subset_250000": {
+      "path": "data/subsets/train_250k.txt",
+      "size_bytes": 230116100,
+      "sha256": "571a256e55763f796d156fa192c62837dc0d0d13e4c012b3d983f28416d5090d"
+    }
+  }
+}

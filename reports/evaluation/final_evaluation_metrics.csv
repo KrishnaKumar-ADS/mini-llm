@@ -1,0 +1,21 @@
+﻿sample_index,model,prompt,max_new_tokens,continuation_characters,continuation_words,sentence_count_heuristic,mean_sentence_words_heuristic,distinct_1,distinct_2,distinct_3,repeated_bigram_occurrence_ratio,repeated_trigram_occurrence_ratio,repeated_sentence_count,has_terminal_punctuation_heuristic,ends_without_terminal_punctuation_heuristic,near_generation_limit_heuristic,near_limit_without_terminal_punctuation_heuristic,last_word,generation_seconds
+1,25k,Once upon a time,1000,333,66,7,9.4286,0.69697,0.907692,0.9375,0.092308,0.0625,0,True,False,False,False,happy,4.279
+2,25k,A little girl found,1000,999,201,24,8.375,0.482587,0.855,0.944724,0.145,0.055276,0,False,True,True,True,tick,6.386
+3,25k,One sunny morning,1000,876,175,21,8.3333,0.497143,0.844828,0.936416,0.155172,0.063584,0,True,False,False,False,you,6.073
+4,25k,A young boy went into the forest,1000,786,165,18,9.1667,0.490909,0.878049,0.969325,0.121951,0.030675,0,True,False,False,False,friend,5.742
+5,25k,The little dog was hungry,1000,556,114,10,11.4,0.561404,0.876106,0.964286,0.123894,0.035714,0,True,False,False,False,fun,4.499
+6,25k,"One day, a rabbit met a turtle",1000,999,208,25,8.32,0.471154,0.855072,0.956311,0.144928,0.043689,0,False,True,True,True,rude,6.095
+7,25k,"It was raining outside, so",1000,677,143,11,13,0.566434,0.922535,0.985816,0.077465,0.014184,0,True,False,False,False,there,5.173
+8,25k,The old man opened the door and,1000,998,221,22,10.0455,0.420814,0.772727,0.894977,0.227273,0.105023,0,False,True,True,True,he,6.196
+9,25k,Lucy wanted to help her friend,1000,643,133,11,12.0909,0.556391,0.939394,0.984733,0.060606,0.015267,0,True,False,False,False,thing,5.002
+10,25k,"After school, the children",1000,391,77,2,38.5,0.597403,0.842105,0.946667,0.157895,0.053333,0,True,False,False,False,friends,4.159
+11,100k,Once upon a time,1000,624,125,12,10.4167,0.616,0.951613,1.0,0.048387,0.0,0,True,False,False,False,after,4.629
+12,100k,A little girl found,1000,999,202,22,9.1818,0.39604,0.686567,0.765,0.313433,0.235,2,False,True,True,True,wished,6.088
+13,100k,One sunny morning,1000,1000,210,27,7.7778,0.47619,0.913876,0.980769,0.086124,0.019231,0,False,True,True,True,clea,6.209
+14,100k,A young boy went into the forest,1000,802,165,12,13.75,0.466667,0.817073,0.969325,0.182927,0.030675,0,True,False,False,False,end,5.462
+15,100k,The little dog was hungry,1000,999,200,18,11.1111,0.445,0.844221,0.954545,0.155779,0.045455,0,False,True,True,True,to,6.054
+16,100k,"One day, a rabbit met a turtle",1000,596,124,13,9.5385,0.596774,0.918699,0.991803,0.081301,0.008197,0,True,False,False,False,ever,4.768
+17,100k,"It was raining outside, so",1000,999,205,26,7.8846,0.517073,0.911765,0.980296,0.088235,0.019704,0,False,True,True,True,it,6.078
+18,100k,The old man opened the door and,1000,595,125,11,11.3636,0.528,0.862903,0.943089,0.137097,0.056911,0,True,False,False,False,mom,4.645
+19,100k,Lucy wanted to help her friend,1000,787,158,16,9.875,0.544304,0.936306,0.987179,0.063694,0.012821,0,True,False,False,False,tomorrow,5.268
+20,100k,"After school, the children",1000,501,104,13,8,0.548077,0.864078,0.95098,0.135922,0.04902,0,True,False,False,False,garden,4.291
