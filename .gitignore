@@ -1,3 +1,4 @@
+
 @'
 # Python environments
 .venv/
@@ -24,8 +25,25 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
-# Model checkpoints, experiment artifacts, and generated binaries
-artifacts/
+# Experiment artifacts: ignore everything by default
+artifacts/*
+
+# Keep the selected experiment directories
+!artifacts/experiments/
+artifacts/experiments/*
+!artifacts/experiments/tiny_25k_baseline_b288_v1/
+!artifacts/experiments/tiny_100k_b1280_v1/
+
+# Keep only best.pt in the selected checkpoints directories
+artifacts/experiments/tiny_25k_baseline_b288_v1/*
+artifacts/experiments/tiny_100k_b1280_v1/*
+!artifacts/experiments/tiny_25k_baseline_b288_v1/checkpoints/
+!artifacts/experiments/tiny_100k_b1280_v1/checkpoints/
+
+artifacts/experiments/tiny_25k_baseline_b288_v1/checkpoints/*
+artifacts/experiments/tiny_100k_b1280_v1/checkpoints/*
+!artifacts/experiments/tiny_25k_baseline_b288_v1/checkpoints/best.pt
+!artifacts/experiments/tiny_100k_b1280_v1/checkpoints/best.pt
 
 # Local datasets; retain the lightweight manifest
 data/*
