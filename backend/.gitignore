@@ -1,0 +1,27 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and linting
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+The cat sat on a red mat.
+
+<|document_boundary|>
+
+The dog ran to the big tree.
+
+<|document_boundary|>
+
+A bird sang in the morning.
+
+<|document_boundary|>
+
+The little fox found a hat.
